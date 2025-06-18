@@ -121,7 +121,7 @@
 **We are currently in the process of aligning and integrating multi-source data. Once the integration is complete, the full dataset—including all video/image data and corresponding annotation files—will be made available via Google Cloud and Baidu Cloud download links. In the meantime, sample data has been temporarily provided in the project repository for reference. Please refer to the <ins>***samples***</ins> series folder for access to these examples.**
 
 - **The instance segmentation subset of PhysLab can be download at [Here](https://drive.google.com/file/d/1EKOKTwzVtrGhjgalIfx8OXrCffxea5Cr/view?usp=sharing)!**
-- **The HOI subset of PhysLab can be download at [Here](https://drive.google.com/file/d/1dVGWgpZfI2lib5td265jli7HVgOfpGRQ/view?usp=sharing)!**
+- **The HOI subset of PhysLab can be download at [Here](https://drive.google.com/file/d/10AA8hDM-6TkspsHIw5w8qf3XWkjzK9ON/view?usp=sharing)!**
 - **The occlusion detection subset of PhysLab can be download at [Here](https://drive.google.com/file/d/1YjTlhZMOpKDRIK-HYJBh3iS6lP6KIjrv/view?usp=sharing)!**
 
 ## 👪 Team
