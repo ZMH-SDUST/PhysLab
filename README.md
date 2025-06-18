@@ -123,7 +123,7 @@
 - **The instance segmentation subset of PhysLab can be download at [Here](https://drive.google.com/file/d/1EKOKTwzVtrGhjgalIfx8OXrCffxea5Cr/view?usp=sharing)!**
 - **The HOI subset of PhysLab can be download at [Here](https://drive.google.com/file/d/10AA8hDM-6TkspsHIw5w8qf3XWkjzK9ON/view?usp=sharing)!**
 - **The occlusion detection subset of PhysLab can be download at [Here](https://drive.google.com/file/d/1YjTlhZMOpKDRIK-HYJBh3iS6lP6KIjrv/view?usp=sharing)!**
-- - **The action segmentation subset of PhysLab can be download at [Here](https://pan.baidu.com/s/1Xl8nNhpNrhWyIXg8tQ1PcA?pwd=tgvb), code is tgvb!**
+- **The action segmentation subset of PhysLab can be download at [Here](https://pan.baidu.com/s/1Xl8nNhpNrhWyIXg8tQ1PcA?pwd=tgvb), code is *tgvb*!**
 
 ## 👪 Team
 **The dataset was developed with contributions from Qingtian Zeng, Yongping Miao, Hantao Liu, Wei Zhou, Minghao Zou, Shangkun Liu, Shuang Chen, Xirui Jia, Xingkai Bai, Aihang Jiang, Zhenkai Zhao, Zilong Wang, and over twenty additional participants, whose efforts are gratefully acknowledged.**
