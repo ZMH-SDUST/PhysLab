@@ -121,9 +121,10 @@
 **We are currently in the process of aligning and integrating multi-source data. Once the integration is complete, the full dataset—including all video/image data and corresponding annotation files—will be made available via Google Cloud and Baidu Cloud download links. In the meantime, sample data has been temporarily provided in the project repository for reference. Please refer to the <ins>***samples***</ins> series folder for access to these examples.**
 
 - **The instance segmentation subset of PhysLab can be download at [Here](https://drive.google.com/file/d/1EKOKTwzVtrGhjgalIfx8OXrCffxea5Cr/view?usp=sharing)!**
-- **The HOI subset of PhysLab can be download at [Here](https://drive.google.com/file/d/10AA8hDM-6TkspsHIw5w8qf3XWkjzK9ON/view?usp=sharing)!**
+- **The HOI subset of PhysLab can be download at [Here](https://drive.google.com/file/d/1WRcpXzVsI597LmUPnG0YXL2rx3aK_00a/view?usp=sharing)!**
 - **The occlusion detection subset of PhysLab can be download at [Here](https://drive.google.com/file/d/1YjTlhZMOpKDRIK-HYJBh3iS6lP6KIjrv/view?usp=sharing)!**
 - **The action segmentation subset of PhysLab can be download at [Here](https://pan.baidu.com/s/1Xl8nNhpNrhWyIXg8tQ1PcA?pwd=tgvb), code is *tgvb*!**
+- **The object detection subset of PhysLab can be download at [Here](https://drive.google.com/file/d/1c5aADMI9nyWF7Gtfdydfw3Dm579SsC55/view?usp=sharing)!**
 
 ## 👪 Team
 **The dataset was developed with contributions from Qingtian Zeng, Yongping Miao, Hantao Liu, Wei Zhou, Minghao Zou, Shangkun Liu, Shuang Chen, Xirui Jia, Xingkai Bai, Aihang Jiang, Zhenkai Zhao, Zilong Wang, and over twenty additional participants, whose efforts are gratefully acknowledged.**
