@@ -100,7 +100,7 @@
 
 - **Instance Segmentation**
 <p align="center">
-  <img src="img/Table 5.png" alt="Dataset Overview" width="400">
+  <img src="img/Table 5-1.png" alt="Dataset Overview" width="400">
 </p>
 
 - **Human-Object Interaction Detection**
