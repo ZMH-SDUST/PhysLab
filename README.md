@@ -94,6 +94,11 @@
 </p>
 
 - **Occlusion Detection**
+
+<p align="center">
+  <img src="img/Table 7.png" alt="Dataset Overview" width="400">
+</p>
+
 <p align="center">
   <img src="img/issample.jpg" alt="Dataset Overview" width="400">
 </p>
