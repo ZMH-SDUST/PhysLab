@@ -141,7 +141,6 @@
           author={Minghao Zou, Qingtian Zeng, Yongping Miao, Shangkun Liu, Zilong Wang, Hantao Liu, and Wei Zhou},
           booktitle={ACM International Conference on Multimedia (ACM MM)},
           year={2025},
-          note={Submitted}
         }
 
 @misc{zou2025physlabbenchmarkdatasetmultigranularity,
@@ -157,6 +156,7 @@
 
 ## ⚠️ Disclaimer
 **The PhysLab dataset provided by this project is collected and annotated based on specific experimental scenarios and methods, but the dataset may contain a certain degree of deviation, incompleteness or erroneous information.**
+
 
 
 
