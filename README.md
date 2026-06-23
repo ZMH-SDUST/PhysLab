@@ -1,4 +1,4 @@
-# PhysLab: A Benchmark Dataset for Multi-Granularity Visual Parsing of Physics Experiments
+# PhysLab: A Benchmark Dataset for Multi-Granularity Visual Parsing of Physics Experiments (ACM MM 2025)
 
 <img src="img/Logo.png" alt="Logo" style="zoom: 45%;" />
 
